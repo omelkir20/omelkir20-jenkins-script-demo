@@ -1,0 +1,1 @@
+# omelkir20-jenkins-script-demo
